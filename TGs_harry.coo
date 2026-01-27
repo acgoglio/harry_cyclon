@@ -2,17 +2,17 @@
 # EMODnet TG dataset
 #
 # lat ; lon ; name ; obs path tpl ; obs name tpl ; flag tpxo comp ; flag lit comp
-38.928;8.720;TEUL;/work/cmcc/ag15419/harry/obs_mod/TEUL.csv;
-39.210;9.114;CA02;/work/cmcc/ag15419/harry/obs_mod/CA02.csv;
-36.769;11.964;PSCA;/work/cmcc/ag15419/harry/obs_mod/PSCA.csv;
-37.966;12.077;MRTM;/work/cmcc/ag15419/harry/obs_mod/MRTM.csv;
-35.500;12.604;LA23;/work/cmcc/ag15419/harry/obs_mod/LA23.csv;
-37.505;13.076;SC43;/work/cmcc/ag15419/harry/obs_mod/SC43.csv;
-37.286;13.527;PE09;/work/cmcc/ag15419/harry/obs_mod/PE09.csv;
-37.498;15.094;CT03;/work/cmcc/ag15419/harry/obs_mod/CT03.csv;
-38.196;15.563;ME13;/work/cmcc/ag15419/harry/obs_mod/ME13.csv;
-38.122;15.649;RC09;/work/cmcc/ag15419/harry/obs_mod/RC09.csv;
-38.327;16.432;RCCL;/work/cmcc/ag15419/harry/obs_mod/RCCL.csv;
-39.084;17.137;CR08;/work/cmcc/ag15419/harry/obs_mod/CR08.csv;
-40.476;17.224;TA18;/work/cmcc/ag15419/harry/obs_mod/TA18.csv;
-39.795;18.359;SMLE;/work/cmcc/ag15419/harry/obs_mod/SMLE.csv;
+38.928;8.720;TEUL;/work/cmcc/ag15419/harry/obs/obs_mod/TEUL.csv;
+39.210;9.114;CA02;/work/cmcc/ag15419/harry/obs/obs_mod/CA02.csv;
+36.769;11.964;PSCA;/work/cmcc/ag15419/harry/obs/obs_mod/PSCA.csv;
+37.966;12.077;MRTM;/work/cmcc/ag15419/harry/obs/obs_mod/MRTM.csv;
+35.500;12.604;LA23;/work/cmcc/ag15419/harry/obs/obs_mod/LA23.csv;
+37.505;13.076;SC43;/work/cmcc/ag15419/harry/obs/obs_mod/SC43.csv;
+37.286;13.527;PE09;/work/cmcc/ag15419/harry/obs/obs_mod/PE09.csv;
+37.498;15.094;CT03;/work/cmcc/ag15419/harry/obs/obs_mod/CT03.csv;
+38.196;15.563;ME13;/work/cmcc/ag15419/harry/obs/obs_mod/ME13.csv;
+38.122;15.649;RC09;/work/cmcc/ag15419/harry/obs/obs_mod/RC09.csv;
+38.327;16.432;RCCL;/work/cmcc/ag15419/harry/obs/obs_mod/RCCL.csv;
+39.084;17.137;CR08;/work/cmcc/ag15419/harry/obs/obs_mod/CR08.csv;
+40.476;17.224;TA18;/work/cmcc/ag15419/harry/obs/obs_mod/TA18.csv;
+39.795;18.359;SMLE;/work/cmcc/ag15419/harry/obs/obs_mod/SMLE.csv;
